@@ -1,6 +1,6 @@
 ---
 website: "Museu do Calçado"          # Entre as aspas escreve o nome do website
-date: "24/04/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "03/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.museu-do-calcado.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.museu-do-calcado.pt/pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Câmara Municipal de São João da Madeira"         # Entre as aspas escrever o nome do owner do website

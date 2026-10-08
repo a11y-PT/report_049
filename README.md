@@ -3,8 +3,10 @@ website: "Museu do Calçado"          # Entre as aspas escreve o nome do website
 date: "03/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.museu-do-calcado.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.museu-do-calcado.pt/pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "06/08/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Câmara Municipal de São João da Madeira"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # {{ page.website }}
